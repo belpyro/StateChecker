@@ -36,6 +36,9 @@
       <HintPath>..\packages\KSP_Mods_090.1.0.0\lib\net35\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Sanford.StateMachineToolkit">
+      <HintPath>..\packages\StateMachineToolkit.6.6.0.0\lib\net20\Sanford.StateMachineToolkit.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
